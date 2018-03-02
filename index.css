@@ -1,0 +1,67 @@
+header {
+	background-color: rgba(255,255,255,.5);
+	padding:0px;
+	color: black;
+	margin: 0px;
+	font-size: 15;
+	text-align: center;
+	width:100%;
+	top:5%;
+	left:0px;
+	position: fixed;
+}
+h1{
+	font-size: 400%;
+}
+a:link {
+	color:black;
+	padding-right: 2.5%;
+	padding-left: 2.5%;
+	text-decoration: none;
+}
+a:visited {
+	color:black;
+}
+a:hover {
+	color:grey;
+	text-decoration: underline;
+}
+.login{
+	width: 100%;
+	padding-top: 25%;
+}
+form{
+	width: 75%;
+	padding: 12.5%;
+}
+input[type="checkbox"]{
+	width:5%;
+	padding:5%;
+	-webkit-transform: scale(2);
+}
+input{
+	font-size: 400%;
+	width:100%;
+	margin: 15px;
+}
+label{
+	font-size: 200%;
+}
+a.button{
+	-webkit-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+    font-size: 400%;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer {
+	text-align: center;
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:40px;
+   width:100%;
+   background-color: rgba(255,255,255,.5);
+}

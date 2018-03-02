@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cameron's Web Server</title>
+<link rel="stylesheet" type="text/css" href="book.css">
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
+</head>
+
+<header>
+		<h1>
+			1 Nephi 1:1
+		</h1>
+</header>
+<div id="app" class="book">
+	<div v-if="loading">
+		<p>Loading...</p>
+	</div>
+	<div v-else>
+		<div class="text">{{current}}</div>
+		<div id="next" class="options">
+			<img v-on:click="nextPage" src="/rightarrow.png"></a>
+		</div>
+	</div>
+</div>
+          <script src="https://cdn.jsdelivr.net/npm/vue@2.5.13/dist/vue.js"></script>
+          <script src="/script2.js"></script>
+<footer>
+	<p><a href="https://github.com/cameronconradt/DailyReader">Repository</a></p>
+</footer>
+</body>
+</html>

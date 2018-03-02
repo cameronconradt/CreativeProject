@@ -1,0 +1,7 @@
+Author: Herman Melville  
+Title: Moby Dick
+  moby-012.txt  BIOGRAPHICAL            Queequeg was a native of Kokovoko, an
+  moby-013.txt  WHEELBARROW             wheelbarrow next morning, Monday, after disposing of
+  moby-014.txt  NANTUCKET               Nothing more happened on the passage worthy
+  moby-015.txt  CHOWDER                 It was quite late in the evening when the
+  moby-016.txt  THE SHIP                In bed we concocted our plans for the morrow.
