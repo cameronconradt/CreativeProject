@@ -21,9 +21,12 @@ h1{
 	grid-area: text;
 	font-size: 5vh;
 }
+<<<<<<< HEAD
 .options {
 	grid-area: options;
 }
+=======
+>>>>>>> fb0cc7461c460369a8a11f74237f283365ba41d9
 footer {
    text-align: center;
    position:relative;
